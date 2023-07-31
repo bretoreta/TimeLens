@@ -10,7 +10,7 @@ TimeLens is a community-driven, open-source project. It's a platform where users
 
 ### Installation
 
-1. Clone the repo: `git clone https://github.com/your_username_/Project-Name.git`
+1. Clone the repo: `git clone https://github.com/FullStackGI/TimeLens.git`
 2. Install dependencies (coming soon).
 3. Run the app (coming soon).
 
