@@ -1,44 +1,60 @@
-# TimeLens
+\# TimeLens 🕰️
 
-TimeLens is a community-driven, open-source project. It's a platform where users can upload images, videos, and documents, and tag them with a specific time period and location. Users can explore these digital time capsules, getting a glimpse of how things looked in different places at different times.
+TimeLens is a community-driven web application that allows users to upload images, videos, and documents, tagging them with a specific time period and location. Dive into the past and explore how things looked in various years!
 
+\![TimeLens Preview](URL_TO_PREVIEW_IMAGE)
 
-## Getting Started
+\## Features
 
-### Prerequisites
+- \*\*User Registration & Login:\*\* Securely sign up and log into the platform.
+- \*\*Upload Media:\*\* Add images, videos, and documents.
+- \*\*Tagging System:\*\* Tag uploads with a specific time and location.
+- \*\*Search Functionality:\*\* Search and filter media based on year and location.
+- \*\*Interactive Map Display:\*\* View media on an interactive map based on their tagged locations.
 
+\## Getting Started
 
-### Installation
+\### Prerequisites
 
-1. Clone the repo: `git clone https://github.com/FullStackGI/TimeLens.git`
-2. Install dependencies (coming soon).
-3. Run the app (coming soon).
+- Node.js
+- MongoDB
 
-## Usage
+\### Installation
 
+1. Clone the repository:
 
-## Contributing
+\```bash
+git clone [REPOSITORY_URL]
+\```
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+2. Navigate to the project directory and install dependencies:
 
-1. Fork the project.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
+\```bash
+cd TimeLens
+npm install
+\```
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+3. Start the server:
 
-## License
+\```bash
+npm start
+\```
 
-Distributed under the GNU General Public License (GPL) v3 License. See `LICENSE` for more information.
+The application should now be running on `http://localhost:3000`.
 
-## Contact
+\## Contributing
 
-Your Name - david@fullstackgi.com
+We encourage community contributions! Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to proceed.
 
-Project Link: coming soon
+\## License
 
-## Acknowledgments
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-Coming Soon
+\## Acknowledgments
+
+- Special thanks to all community members who voted on the project idea and provided valuable feedback.
+- Shout out to our active contributors and testers.
+
+\---
+
+Created with ❤️ by the TimeLens community.
