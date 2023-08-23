@@ -27,14 +27,19 @@ TimeLens is a community-driven web application that allows users to upload image
 git clone [REPOSITORY_URL]
 ```
 
-2. Navigate to the project directory and install dependencies:
+2. Navigate to the project directory:
 
 ```bash
 cd TimeLens
+```
+
+3. Install dependencies:
+
+```bash
 npm install
 ```
 
-3. Start the server:
+4. Start the server:
 
 ```bash
 npm start
