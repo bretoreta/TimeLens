@@ -23,22 +23,22 @@ TimeLens is a community-driven web application that allows users to upload image
 
 1. Clone the repository:
 
-\```bash
+```bash
 git clone [REPOSITORY_URL]
-\```
+```
 
 2. Navigate to the project directory and install dependencies:
 
-\```bash
+```bash
 cd TimeLens
 npm install
-\```
+```
 
 3. Start the server:
 
-\```bash
+```bash
 npm start
-\```
+```
 
 The application should now be running on `http://localhost:3000`.
 
